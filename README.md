@@ -164,17 +164,3 @@ MIT License
 **Jahir Bakari**  
 CMSC 691 - Dr. Manas Gaur  
 University of Maryland, Baltimore County
-
-## Citation
-
-If you use LACE in your research, please cite:
-
-```bibtex
-@misc{bakari2024lace,
-  author = {Bakari, Jahir},
-  title = {LACE: Logic-Aware Consistency Evaluation for Large Language Models},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/lace}
-}
-```
